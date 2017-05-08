@@ -7,7 +7,7 @@ IBM MobileFirst Platform Foundation
 Follow the instructions in the tutorial(s) listed below.
 
 ### Tutorials
-https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/starter-application-samples/
+https://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/7.1/starter-application-samples/
 
 ### Supported Levels
 IBM MobileFirst Platform Foundation 7.1
